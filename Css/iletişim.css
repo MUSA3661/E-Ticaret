@@ -1,0 +1,14 @@
+html,body{height: 100vh;}
+
+/* .iletisim-footer{
+    position: absolute;;
+    bottom: 0;
+} */
+.iletisim-baslik{
+    color: orange;
+}
+.i-bilgileri-text{
+    font-size: 20px;
+    font-weight: bold;
+    overflow: hidden;
+}
